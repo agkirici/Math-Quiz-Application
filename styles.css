@@ -1,0 +1,28 @@
+/*********************************************************************************
+* I confirm that this assignment is my own work in accordance with college Academic
+Policy. No part of this assignment has been copied manually or electronically from any
+other source (including web sites) or distributed to any person or website.
+**
+Name: Arzu Gizem Kirici Student ID: 135304210 Date: 04/13/2022
+**
+*******************************************************************************/
+
+
+* {    
+    box-sizing:border-box;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+button {
+    padding:10px 15px;
+    width:100px;
+    font-size:28px;
+}
+p {
+    font-size:22px;
+}
+#questions-remaining {
+    font-weight:bold;
+    color:blue;
+}
